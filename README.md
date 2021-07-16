@@ -1,4 +1,4 @@
-<h1>Embras- Desafio Todolis - Adriano Morais Santos da Silva</h1>
+<h1>Embras- Desafio Todolist - Adriano Morais Santos da Silva</h1>
 
 Este é um desafio teste para colocaçção de de Dev.Front End.
 
@@ -14,8 +14,12 @@ II-Biblioteca CLI
 II-Node.js
 
 ```
+Veja que é necessário que tenha Java instalado e o JDK (minimo V14).
+```
+
+```
 Exemplo: 
-IDE - VsCode
+IDE - VsCode, Eclipse (Spring Tool Suit -STS4)
 Navegador - Chrome
 ```
 
@@ -28,7 +32,7 @@ Todos os dados e arquivos necessários estão disponíveis nas pastas do reposit
 
 Fraeworks: Bootstrap
 Tecnologias:
-Angular 10; Spring Boot ; Heroku ; Gitpages
+Angular 10; Spring Boot ; Heroku ; Gitpages,TypeScrip, Js , CSS.
 
 ## 🛠️ Construído com
 
